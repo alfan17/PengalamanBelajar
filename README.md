@@ -1,22 +1,22 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajarku di Dicoding
 
-**6 Februari 2022**
+**6 Agustus 2020**
 
-Belajar kelas Belajar Dasar Git dengan Github (Progress 36%)
-  * Belajar tentang apa itu git dan alasan penggunaannya
-  * Belajar tools yang dapat digunakan untuk menjalankan git dengan github
+Belajar kelas Belajar Dasar Pemrograman Web (Progress 36%)
+  * Belajar tentang apa itu HTML
+  * Belajar tools apa saja yang digunakan untuk menjalankan HTML
 
 
-**7 Februari 2022**
+**7 Agustus 2020**
 
-Belajar kelas Belajar Dasar Git dengan Github (Progress 45%)
-  * Belajar dasar - dasar git.
-  * Belajar menyelesaikan studi kasus pengalaman belajar dengan git
+Belajar kelas Belajar Dasar Pemrograman Web (Progress 45%)
+  * Belajar tentang apa itu CSS
+  * Belajar tools apa saja yang digunakan untuk menjalankan CSS
 
-**Soon**
+**10 Agustus 2020**
 
-Belajar kelas Belajar Dasar Git dengan Github (Progress 100%)
-  * Belajar Git Branch
-  * Belajar menyelesaikan studi kasus kolaborasi dengan tim
-  * Belajar Github sebagai portofolio
+Belajar kelas Belajar Dasar Pemrograman Web (Progress 100%)
+  * Belajar tentang layout responsif menggunakan flexbox
+  * Belajar tentang javascript dan manipulasi DOM
+  * Belajar tentang web storage
